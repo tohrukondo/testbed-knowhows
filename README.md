@@ -7,7 +7,7 @@
 
 - キャラバンテストベッド  https://github.com/tohrukondo/iotcaravantestbed
   - [NerveNetマニュアル](https://github.com/tohrukondo/iotcaravantestbed/blob/master/nervetrial.md)
-  - [LPWA(LoRaWAN)計測機マニュアル](https://github.com/tohrukondo/iotcaravantestbed/blob/master/loratrial.md)
+  - [LPWA(Private LoRa)計測機マニュアル](https://github.com/tohrukondo/iotcaravantestbed/blob/master/loratrial.md)
   
 - LPWA テストベッド http://www.yrp.co.jp/LPWA/index.html
   - 準備中
